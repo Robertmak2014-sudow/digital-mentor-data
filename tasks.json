@@ -161,4 +161,13 @@
     "duration": "1 час",
     "match": 89
   }
+  {
+    "id": 19,
+    "title": "тест",
+    "description": "тест",
+    "price": 200,
+    "category": "Тестирование",
+    "duration": "1 час",
+    "match": 90
+  },
 ]
