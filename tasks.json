@@ -1,173 +1,192 @@
-[
-  {
-    "id": 1,
-    "title": "Найди баги в мини-игре",
-    "description": "Поиграй в учебную игру и запиши, где кнопки или задания работают неправильно.",
-    "price": 200,
-    "category": "Тестирование",
-    "duration": "1 час",
-    "match": 90
-  },
-  {
-    "id": 2,
-    "title": "Придумай название роботу",
-    "description": "Предложи пять дружелюбных названий для робота‑помощника и объясни свой любимый вариант.",
-    "price": 150,
-    "category": "Креатив",
-    "duration": "30 минут",
-    "match": 85
-  },
-  {
-    "id": 3,
-    "title": "Собери эмодзи‑загадку",
-    "description": "Зашифруй известную сказку или мультфильм с помощью эмодзи. Используй только подходящие для всех возраста материалы.",
-    "price": 120,
-    "category": "Креатив",
-    "duration": "30 минут",
-    "match": 82
-  },
-  {
-    "id": 4,
-    "title": "Проверь школьный сайт",
-    "description": "На учебной копии сайта найди опечатки и неудобные кнопки. Не отправляй формы с настоящими данными.",
-    "price": 220,
-    "category": "Тестирование",
-    "duration": "1 час",
-    "match": 88
-  },
-  {
-    "id": 5,
-    "title": "Создай пиксельного маскота",
-    "description": "Нарисуй простого персонажа для вымышленного космического клуба. Можно использовать бумагу или графический редактор.",
-    "price": 250,
-    "category": "Дизайн",
-    "duration": "1 час",
-    "match": 92
-  },
-  {
-    "id": 6,
-    "title": "Составь викторину о космосе",
-    "description": "Придумай пять вопросов о планетах и добавь к каждому три варианта ответа.",
-    "price": 180,
-    "category": "Исследование",
-    "duration": "45 минут",
-    "match": 86
-  },
-  {
-    "id": 7,
-    "title": "Наведи порядок в таблице",
-    "description": "Отсортируй учебный список книг по названию и жанру. Используй только вымышленные данные из задания.",
-    "price": 200,
-    "category": "Работа с данными",
-    "duration": "45 минут",
-    "match": 84
-  },
-  {
-    "id": 8,
-    "title": "Нарисуй карту приключения",
-    "description": "Создай карту вымышленного острова с пятью местами и короткими подсказками для путешественника.",
-    "price": 230,
-    "category": "Дизайн",
-    "duration": "1 час",
-    "match": 89
-  },
-  {
-    "id": 9,
-    "title": "Придумай экологические советы",
-    "description": "Напиши пять простых советов, как бережно относиться к природе дома или в школе.",
-    "price": 160,
-    "category": "Тексты",
-    "duration": "30 минут",
-    "match": 80
-  },
-  {
-    "id": 10,
-    "title": "Проверь инструкцию для робота",
-    "description": "Прочитай учебную инструкцию и отметь шаги, которые непонятны или идут не по порядку.",
-    "price": 190,
-    "category": "Редактура",
-    "duration": "45 минут",
-    "match": 87
-  },
-  {
-    "id": 11,
-    "title": "Придумай настольную игру",
-    "description": "Опиши простую игру на 10 минут: цель, правила и что нужно подготовить.",
-    "price": 240,
-    "category": "Креатив",
-    "duration": "1 час",
-    "match": 91
-  },
-  {
-    "id": 12,
-    "title": "Сделай афишу книжного клуба",
-    "description": "Подготовь макет афиши для вымышленного клуба любителей фантастики. Не добавляй настоящие адреса и телефоны.",
-    "price": 250,
-    "category": "Дизайн",
-    "duration": "1 час",
-    "match": 90
-  },
-  {
-    "id": 13,
-    "title": "Найди закономерность",
-    "description": "Реши пять логических задач и объясни ход решения так, чтобы его понял другой школьник.",
-    "price": 170,
-    "category": "Логика",
-    "duration": "40 минут",
-    "match": 83
-  },
-  {
-    "id": 14,
-    "title": "Озвучь персонажа комикса",
-    "description": "Придумай короткую реплику для вымышленного персонажа и запиши её для учебного проекта с разрешения взрослого.",
-    "price": 180,
-    "category": "Медиа",
-    "duration": "30 минут",
-    "match": 79
-  },
-  {
-    "id": 15,
-    "title": "Собери словарь космических терминов",
-    "description": "Найди значения пяти простых терминов о космосе в надёжных источниках и объясни их своими словами.",
-    "price": 200,
-    "category": "Исследование",
-    "duration": "45 минут",
-    "match": 85
-  },
-  {
-    "id": 16,
-    "title": "Протестируй экран приложения",
-    "description": "Проверь учебный макет приложения и предложи три идеи, как сделать его понятнее.",
-    "price": 210,
-    "category": "Тестирование",
-    "duration": "45 минут",
-    "match": 93
-  },
-  {
-    "id": 17,
-    "title": "Придумай историю для игры",
-    "description": "Напиши короткий сюжет о космическом исследователе: начало, неожиданное событие и финал.",
-    "price": 220,
-    "category": "Тексты",
-    "duration": "1 час",
-    "match": 88
-  },
-  {
-    "id": 18,
-    "title": "Создай набор тетявапцвап",
-    "description": "Нарисуй три проствапвапвапвапя вымышленного приложения: задача, награда и профиль.",
-    "price": 230,
-    "category": "Дизайн",
-    "duration": "1 час",
-    "match": 89
-  },
-  {
-    "id": 19,
-    "title": "тест",
-    "description": "тест",
-    "price": 200,
-    "category": "Тестирование",
-    "duration": "1 час",
-    "match": 90
-  }
-]
+<?php
+/**
+ * Простой API для добавления/удаления задач в public/tasks.json
+ *
+ * URL‑пример:
+ *   POST /upload.php?action=add    – добавить задачу
+ *   POST /upload.php?action=delete – удалить задачу (передать id)
+ *
+ * Тело запроса – JSON.
+ * Ответ – тоже JSON.
+ *
+ * Поскольку файл находится в открытом каталоге, никаких скрытых путей не требуется.
+ */
+
+declare(strict_types=1);
+header('Content-Type: application/json; charset=utf-8');
+
+// ----------------------- CONFIG -----------------------
+$DATA_FILE = __DIR__ . '/tasks.json';      // файл лежит рядом с этим скриптом
+// ----------------------------------------------------
+
+// ---------- Утилиты ----------
+/**
+ * Читает массив задач из $DATA_FILE.
+ * Делает shared‑lock, чтобы несколько запросов могли читать одновременно.
+ */
+function readTasks(string $file): array
+{
+    if (!file_exists($file)) {
+        // создаём пустой файл, если его ещё нет
+        file_put_contents($file, json_encode([], JSON_UNESCAPED_UNICODE));
+    }
+
+    $fp = fopen($file, 'r');
+    if (!$fp) {
+        http_response_code(500);
+        echo json_encode(['error' => 'Cannot open data file']);
+        exit;
+    }
+
+    flock($fp, LOCK_SH);                     // shared lock
+    $content = stream_get_contents($fp);
+    flock($fp, LOCK_UN);
+    fclose($fp);
+
+    $data = json_decode($content, true);
+    return is_array($data) ? $data : [];
+}
+
+/**
+ * Записывает массив задач в $DATA_FILE.
+ * Делает exclusive‑lock, чтобы исключить «гонки» между запросами.
+ */
+function writeTasks(string $file, array $tasks): void
+{
+    $fp = fopen($file, 'c+');
+    if (!$fp) {
+        http_response_code(500);
+        echo json_encode(['error' => 'Cannot open data file for writing']);
+        exit;
+    }
+
+    if (!flock($fp, LOCK_EX)) {              // exclusive lock
+        http_response_code(500);
+        echo json_encode(['error' => 'Cannot lock file']);
+        exit;
+    }
+
+    // Стираем старое содержимое и пишем заново
+    ftruncate($fp, 0);
+    rewind($fp);
+    fwrite($fp, json_encode($tasks, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    fflush($fp);
+    flock($fp, LOCK_UN);
+    fclose($fp);
+}
+
+/**
+ * Генерирует новый id – max(id)+1 (если массив пустой → 1).
+ */
+function generateId(array $tasks): int
+{
+    $max = 0;
+    foreach ($tasks as $t) {
+        if (isset($t['id']) && $t['id'] > $max) {
+            $max = $t['id'];
+        }
+    }
+    return $max + 1;
+}
+
+/**
+ * Возврат JSON‑ответа и завершение скрипта.
+ */
+function answer(array $payload, int $code = 200): void
+{
+    http_response_code($code);
+    echo json_encode($payload, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    exit;
+}
+// --------------------------------
+
+$method = $_SERVER['REQUEST_METHOD'];
+$action = $_GET['action'] ?? null;
+
+// Принимаем только POST
+if ($method !== 'POST' || $action === null) {
+    answer(['error' => 'Bad request – use POST with ?action=add|delete'], 400);
+}
+
+// Текущий список
+$tasks = readTasks($DATA_FILE);
+
+// ------------------- ADD -------------------
+if ($action === 'add') {
+    $raw = file_get_contents('php://input');
+    $data = json_decode($raw, true);
+    if (!is_array($data)) {
+        answer(['error' => 'Invalid JSON body'], 400);
+    }
+
+    // Минимальная проверка обязательных полей
+    $required = ['title','description','price','category','duration','match'];
+    foreach ($required as $fld) {
+        if (!array_key_exists($fld, $data)) {
+            answer(['error' => "Missing field: $fld"], 400);
+        }
+    }
+
+    $newTask = [
+        'id'          => generateId($tasks),
+        'title'       => (string)$data['title'],
+        'description' => (string)$data['description'],
+        'price'       => (int)$data['price'],
+        'category'    => (string)$data['category'],
+        'duration'    => (string)$data['duration'],
+        'match'       => (int)$data['match'],
+    ];
+
+    $tasks[] = $newTask;
+    writeTasks($DATA_FILE, $tasks);
+
+    answer([
+        'status' => 'added',
+        'task'   => $newTask,
+        'all'    => $tasks
+    ]);
+}
+
+// ------------------- DELETE -------------------
+if ($action === 'delete') {
+    // Удаляем по id – id может приходить в JSON‑теле или как GET‑параметр
+    $json = file_get_contents('php://input');
+    $body = json_decode($json, true);
+    $id = null;
+
+    if (isset($_GET['id'])) {
+        $id = (int)$_GET['id'];
+    } elseif (is_array($body) && isset($body['id'])) {
+        $id = (int)$body['id'];
+    }
+
+    if (!$id) {
+        answer(['error' => 'Missing task id (GET ?id=… or JSON { "id": … })'], 400);
+    }
+
+    $found = false;
+    foreach ($tasks as $i => $t) {
+        if (($t['id'] ?? 0) === $id) {
+            $found = true;
+            unset($tasks[$i]);
+            break;
+        }
+    }
+
+    if (!$found) {
+        answer(['error' => "Task with id=$id not found"], 404);
+    }
+
+    // Сбрасываем индексы, чтобы JSON‑массив оставался «чистым»
+    $tasks = array_values($tasks);
+    writeTasks($DATA_FILE, $tasks);
+
+    answer([
+        'status' => 'deleted',
+        'deletedId' => $id,
+        'all' => $tasks
+    ]);
+}
+
+// ------------------- UNKNOWN ACTION -------------------
+answer(['error' => 'Unknown action'], 400);
